@@ -1,2 +1,2 @@
 # Small-scripts
-Small scripts for data manipulation or other situations.
+Small .R scripts for data manipulation.
