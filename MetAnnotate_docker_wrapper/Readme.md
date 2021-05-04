@@ -7,11 +7,11 @@ The version of the MetAnnotate-wrapper-docker employed here was created by Lee a
 
 
 **To install the MetAnnotate-wrapper-docker rapidly:**
-1) Download the folder scripts from this page and save them in the PATH you want to install MetAnnotate.
+1) Download the folder script from this page and save them in the PATH where you want to install MetAnnotate.
 
 ```bash
 ##Run
-./scripts/installing_metannotate.sh
+./script/installing_metannotate.sh
 ```
 
 **Under construction**
