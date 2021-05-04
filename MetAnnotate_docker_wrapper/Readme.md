@@ -11,4 +11,4 @@ The version of the MetAnnotate-wrapper-docker employed here was created by Lee a
 
 ```bash
 ##Run
-./scripts/installing_metannotate.sh```
+./scripts/installing_metannotate.sh
